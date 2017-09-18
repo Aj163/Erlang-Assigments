@@ -23,11 +23,11 @@ Time taken by algorithms to sort lists of various sizes, randomly generated:
 
 Algorithm\Size of List		|100 	|1000	|1000	|10000(10^4)	|100000(10^5)		|10^6 		|10^7
 ----------------------------|-------|-------|-------|---------------|-------------------|-----------|---------
-1. Quick Sort				|0.0 	|0.0  	|0.0 	|0.016 			|0.188 				|2.953 		|39.70324
-2. Insertion Sort			|0.0 	|0.0  	|0.015 	|1.077995 		|TLE 				|TLE		|TLE
-3. Bubble Sort				|0.0 	|0.0 	|0.063 	|15.077941 		|TLE 				|TLE 		|TLE
-4. Selection Sort			|0.0 	|0.0 	|0.015 	|1.921992 		|TLE 				|TLE 		|TLE
-5. Merge Sort				|0.0 	|0.0 	|0.0 	|0.015 			|0.234 				|2.906 		|32.70337
+Quick Sort				|0.0 	|0.0  	|0.0 	|0.016 			|0.188 				|2.953 		|39.70324
+Insertion Sort			|0.0 	|0.0  	|0.015 	|1.077995 		|TLE 				|TLE		|TLE
+Bubble Sort				|0.0 	|0.0 	|0.063 	|15.077941 		|TLE 				|TLE 		|TLE
+Selection Sort			|0.0 	|0.0 	|0.015 	|1.921992 		|TLE 				|TLE 		|TLE
+Merge Sort				|0.0 	|0.0 	|0.0 	|0.015 			|0.234 				|2.906 		|32.70337
 
 TLE - Time Limit Exceeded (60 Seconds)
 
