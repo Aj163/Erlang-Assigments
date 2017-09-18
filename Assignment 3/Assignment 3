@@ -1,0 +1,8 @@
+Question:
+https://www.hackerrank.com/contests/nitkylc/challenges/yogi-and-jinx
+
+First, solve the above question in C/C++ (Submit your code on the hackerrank judge and pass all the test cases) and then translate the same code to Erlang. Time your code for N = powers of 2 until execution time reaches 60s or till 2^50 (whichever comes first)
+
+Last date for submission: 07-06-2017 before 11:59 PM.
+
+As usual, add both the files along with a readme file (containing description of your algorithm along with the results) to Week 4/Assignment 3/<your first name>/
